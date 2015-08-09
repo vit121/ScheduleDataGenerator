@@ -1,0 +1,5 @@
+c:\users\vi\documents\visual studio 2012\Projects\ScheduleDataGenerator\ScheduleDataGenerator\bin\Debug\ScheduleDataGenerator.dll
+c:\users\vi\documents\visual studio 2012\Projects\ScheduleDataGenerator\ScheduleDataGenerator\bin\Debug\ScheduleDataGenerator.pdb
+c:\users\vi\documents\visual studio 2012\Projects\ScheduleDataGenerator\ScheduleDataGenerator\obj\Debug\ScheduleDataGenerator.csprojResolveAssemblyReference.cache
+c:\users\vi\documents\visual studio 2012\Projects\ScheduleDataGenerator\ScheduleDataGenerator\obj\Debug\ScheduleDataGenerator.dll
+c:\users\vi\documents\visual studio 2012\Projects\ScheduleDataGenerator\ScheduleDataGenerator\obj\Debug\ScheduleDataGenerator.pdb
